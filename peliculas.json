@@ -1,12 +1,10 @@
 [
-  {
-    "Titulo": "Oppenheimer",
-    "Opcion 1": "https://streamwish.to/e/ku1j3ipw5w8k",
-    "Opcion 2": "https://vidhidepro.com/v/4l680691a0oj"
-  },
-  {
-    "Titulo": "Transformers",
-    "Opcion 1": "https://ghbrisk.com/e/clhucqweexeb",
-    "Opcion 2": "https://vidhide.com/e/xyz789"
-  }
+    {
+        "Titulo": "Joker",
+        "Imagen": "https://image.tmdb.org/t/p/w154/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+        "Descripcion": "Arthur Fleck es un hombre ignorado por la sociedad, cuya motivación en la vida es hacer reír. Pero una serie de trágicos acontecimientos le llevarán a ver el mundo de otra forma. Película basada en Joker, el popular personaje de DC Comics y archivillano de Batman, pero que en este film toma un cariz más realista y oscuro..",
+        "Año": "2019",
+        "Opcion 1": "https://streamwish.to/e/ud1tjxo7jbb6",
+        "Opcion 2": "https://vidhidepro.com/v/n5s0g7mhty1m"
+    }
 ]
