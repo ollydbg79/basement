@@ -6,7 +6,7 @@
         "Año": "2021",
         "Temporadas": [
             {
-                "Numero": 1,
+                "Temporada": 1,
                 "Episodios": [
                     {
                         "Numero": 1,
@@ -47,7 +47,7 @@
                 ]
             },
             {
-                "Numero": 2,
+                "Temporada": 2,
                 "Episodios": [
                     {
                         "Numero": 1,
@@ -94,7 +94,7 @@
                 ]
             },
             {
-                "Numero": 3,
+                "Temporada": 3,
                 "Episodios": [
                     {
                         "Numero": 1,
