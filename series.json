@@ -1,16 +1,151 @@
-{
-  "Titulo": "The White Lotus",
-  "Temporadas": [
+[
     {
-      "Temporada": 1,
-      "Episodios": [
-        {
-          "Numero": 1,
-          "Titulo": "New Day",
-          "Opcion 1": "https://streamwish.to/e/ku1j3ipw5w8k",
-          "Opcion 2": "https://vidhide.com/e/4l680691a0oj"
-        }
-      ]
+        "Titulo": "The White Lotus",
+        "Imagen": "https://image.tmdb.org/t/p/w154/4gBYNDdczkFOqjR4dgYamqbp6cS.jpg",
+        "Descripcion": "Siga las hazañas de varios huéspedes y empleados en un exclusivo resort tropical durante el lapso de una semana. Cada día que pasa surge una complejidad más oscura para estos viajeros perfectos, los empleados alegres del hotel y el lugar idílico en sí..",
+        "Año": "2021",
+        "Temporadas": [
+            {
+                "Numero": 1,
+                "Episodios": [
+                    {
+                        "Numero": 1,
+                        "Titulo": "The White Lotus: Temporada 1, Episodio 1",
+                        "Opcion 1": "https://ghbrisk.com/e/2sdtbnxyoc5z",
+                        "Opcion 2": "https://ryderjet.com/embed/9frhiztwjdfs"
+                    },
+                    {
+                        "Numero": 2,
+                        "Titulo": "The White Lotus: Temporada 1, Episodio 2",
+                        "Opcion 1": "https://ghbrisk.com/e/vfcsvxct0rr7",
+                        "Opcion 2": "https://ryderjet.com/embed/r2h46x87gm5u"
+                    },
+                    {
+                        "Numero": 3,
+                        "Titulo": "The White Lotus: Temporada 1, Episodio 3",
+                        "Opcion 1": "https://ghbrisk.com/e/gji74fw3szr3",
+                        "Opcion 2": "https://ryderjet.com/embed/9sjo5f9qktu0"
+                    },
+                    {
+                        "Numero": 4,
+                        "Titulo": "The White Lotus: Temporada 1, Episodio 4",
+                        "Opcion 1": "https://ghbrisk.com/e/t31vz5esstuy",
+                        "Opcion 2": "https://ryderjet.com/embed/8yvr975nfx1p"
+                    },
+                    {
+                        "Numero": 5,
+                        "Titulo": "The White Lotus: Temporada 1, Episodio 5",
+                        "Opcion 1": "https://ghbrisk.com/e/myun1iu353d1",
+                        "Opcion 2": "https://ryderjet.com/embed/y3lpysxnf2c1"
+                    },
+                    {
+                        "Numero": 6,
+                        "Titulo": "The White Lotus: Temporada 1, Episodio 6",
+                        "Opcion 1": "https://ghbrisk.com/e/f16fjx06u4sr",
+                        "Opcion 2": "https://ryderjet.com/embed/zja063arfp7f"
+                    }
+                ]
+            },
+            {
+                "Numero": 2,
+                "Episodios": [
+                    {
+                        "Numero": 1,
+                        "Titulo": "The White Lotus: Temporada 2, Episodio 1",
+                        "Opcion 1": "https://ghbrisk.com/e/c05mnxnmwgj5",
+                        "Opcion 2": "https://ryderjet.com/embed/sh3v2ubo3n3g"
+                    },
+                    {
+                        "Numero": 2,
+                        "Titulo": "The White Lotus: Temporada 2, Episodio 2",
+                        "Opcion 1": "https://ghbrisk.com/e/sed4kjmz05rd",
+                        "Opcion 2": "https://ryderjet.com/embed/51znzlqbd2xd"
+                    },
+                    {
+                        "Numero": 3,
+                        "Titulo": "The White Lotus: Temporada 2, Episodio 3",
+                        "Opcion 1": "https://ghbrisk.com/e/go9t1mo3zh46",
+                        "Opcion 2": "https://ryderjet.com/embed/chu1xjnjpvfv"
+                    },
+                    {
+                        "Numero": 4,
+                        "Titulo": "The White Lotus: Temporada 2, Episodio 4",
+                        "Opcion 1": "https://ghbrisk.com/e/nepwzleoxt6f",
+                        "Opcion 2": "https://ryderjet.com/embed/ke1o4nnboctc"
+                    },
+                    {
+                        "Numero": 5,
+                        "Titulo": "The White Lotus: Temporada 2, Episodio 5",
+                        "Opcion 1": "https://ghbrisk.com/e/00ktdn5yvlzk",
+                        "Opcion 2": "https://ryderjet.com/embed/845cprh74t8h"
+                    },
+                    {
+                        "Numero": 6,
+                        "Titulo": "The White Lotus: Temporada 2, Episodio 6",
+                        "Opcion 1": "https://ghbrisk.com/e/eagxggi3o6jh",
+                        "Opcion 2": "https://ryderjet.com/embed/wes2f9iog9n5"
+                    },
+                    {
+                        "Numero": 7,
+                        "Titulo": "The White Lotus: Temporada 2, Episodio 7",
+                        "Opcion 1": "https://ghbrisk.com/e/d7i2ak12wvie",
+                        "Opcion 2": "https://ryderjet.com/embed/x83k0onzryd4"
+                    }
+                ]
+            },
+            {
+                "Numero": 3,
+                "Episodios": [
+                    {
+                        "Numero": 1,
+                        "Titulo": "The White Lotus: Temporada 3, Episodio 1",
+                        "Opcion 1": "https://ghbrisk.com/e/n51n1vv08gt4",
+                        "Opcion 2": "https://ryderjet.com/embed/iatkrm76idjp"
+                    },
+                    {
+                        "Numero": 2,
+                        "Titulo": "The White Lotus: Temporada 3, Episodio 2",
+                        "Opcion 1": "https://ghbrisk.com/e/9dogaa9cwy8v",
+                        "Opcion 2": "https://ryderjet.com/embed/hu8b033sstyn"
+                    },
+                    {
+                        "Numero": 3,
+                        "Titulo": "The White Lotus: Temporada 3, Episodio 3",
+                        "Opcion 1": "https://ghbrisk.com/e/47oj6zgi61qa",
+                        "Opcion 2": "https://ryderjet.com/embed/w93s86anzlf9"
+                    },
+                    {
+                        "Numero": 4,
+                        "Titulo": "The White Lotus: Temporada 3, Episodio 4",
+                        "Opcion 1": "https://ghbrisk.com/e/q4mkvs6iv9dd",
+                        "Opcion 2": "https://ryderjet.com/embed/qpfsggm2tb5g"
+                    },
+                    {
+                        "Numero": 5,
+                        "Titulo": "The White Lotus: Temporada 3, Episodio 5",
+                        "Opcion 1": "https://ghbrisk.com/e/kg8b1w4p8uwg",
+                        "Opcion 2": "https://ryderjet.com/embed/2zdx86284wny"
+                    },
+                    {
+                        "Numero": 6,
+                        "Titulo": "The White Lotus: Temporada 3, Episodio 6",
+                        "Opcion 1": "https://ghbrisk.com/e/3mllmab56fxy",
+                        "Opcion 2": "https://ryderjet.com/embed/i537zutpmvsq"
+                    },
+                    {
+                        "Numero": 7,
+                        "Titulo": "The White Lotus: Temporada 3, Episodio 7",
+                        "Opcion 1": "https://ghbrisk.com/e/64y9sdbhqlnr",
+                        "Opcion 2": "https://ryderjet.com/embed/7lc80a9n63go"
+                    },
+                    {
+                        "Numero": 8,
+                        "Titulo": "The White Lotus: Temporada 3, Episodio 8",
+                        "Opcion 1": "https://ghbrisk.com/e/naveil7f0nzq",
+                        "Opcion 2": "https://ryderjet.com/embed/5qis1u6mhxih"
+                    }
+                ]
+            }
+        ]
     }
-  ]
-}
+]
